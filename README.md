@@ -1,0 +1,1 @@
+# manuel-example-bot
